@@ -1,0 +1,1150 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-1437241986629219/1350053534",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/9036971862",
+      "native_for_admob":"ca-app-pub-1437241986629219/6206531069",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+      "backup_ads_intertitial":"b195f8dd8ded45fe847ad89ed1d016da",
+      "backup_ads_rewards":"",
+      "survey_api_key":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Skin":
+  [
+   {
+          "id":1,
+          "name_skin":"Hellfire Club",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire1.png",
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire1.png"
+          
+          
+        },
+        {
+          "id":2,
+          "name_skin":"Hellfire Club",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire2.png",
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire2.png"
+          
+        },
+        {
+          "id":3,
+          "name_skin":"Hellfire Club",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire3.png",
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire3.png"
+          
+          
+        },
+        {
+          "id":4,
+          "name_skin":"Hellfire Club",
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire4.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire4.png"
+          
+        },
+        {
+          "id":5,
+          "name_skin":"Hellfire Club",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire5.png",
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire5.png"
+          
+          
+        },
+        {
+          "id":6,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire6.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire6.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":7,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire7.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire7.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":8,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire8.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire8.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":9,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire9.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire9.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":10,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire10.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire10.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":11,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire11.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire11.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":12,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire12.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire12.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":13,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire13.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire13.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":14,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire14.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire14.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":15,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire15.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire15.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":16,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire16.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire16.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":17,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire17.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire17.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":18,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire18.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire18.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":19,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire19.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire19.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":20,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire20.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire20.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":21,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire21.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire21.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":22,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire22.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire22.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":23,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire23.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire23.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":24,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire24.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire24.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":25,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire25.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire25.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":26,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire26.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire26.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":27,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire27.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire27.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":28,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire28.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire28.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":29,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire29.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire29.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":30,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire30.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire30.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":31,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire31.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire31.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":32,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire32.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire32.png",
+          "name_skin":"Hellfire Club"
+        },
+        { 
+          "id":33,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire33.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire33.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":34,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire34.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire34.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":35,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire35.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire35.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":36,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire36.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire36.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":37,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire37.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire37.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":38,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire38.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire38.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":39,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire39.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire39.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":40,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire40.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire40.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":41,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire41.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire41.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":42,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire42.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire42.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":43,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire43.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire43.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":44,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire44.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire44.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":45,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire45.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire45.png",
+          "name_skin":"Hellfire Club"
+        },
+        { 
+          "id":46,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire46.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire46.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":47,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire47.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire47.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":48,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire48.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire48.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":49,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire49.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire49.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":50,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire50.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire50.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":51,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire51.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire51.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":52,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire52.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire52.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":53,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire53.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire53.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":54,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire54.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire54.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":55,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire55.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire55.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":56,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire56.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire56.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":57,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire57.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire57.png",
+         "name_skin":"Hellfire Club"
+        },
+        {
+          "id":58,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire58.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire58.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":59,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire59.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire59.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":60,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire60.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire60.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":61,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire61.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire61.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":62,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire62.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire62.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":63,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire63.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire63.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":64,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire64.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire64.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":65,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire65.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire65.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":66,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire66.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire66.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":67,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire67.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire67.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":68,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire68.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire68.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":69,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire69.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire69.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":70,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire70.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire70.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":71,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire71.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire71.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":72,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire72.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire72.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":73,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire73.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire73.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":74,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire74.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire74.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":75,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire75.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire75.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":76,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire76.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire76.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":77,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire77.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire77.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":78,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire78.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire78.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":79,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire79.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire79.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":80,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire80.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire80.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":81,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire81.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire81.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":82,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire82.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire82.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":83,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire83.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire83.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":84,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire84.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire84.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":85,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire85.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire85.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":86,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire86.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire86.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":87,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire87.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire87.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":88,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire88.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire88.png",
+         "name_skin":"Hellfire Club"
+        },
+        {
+          "id":89,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire89.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire89.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":90,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire90.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire90.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":91,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire91.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire91.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":92,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire92.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire92.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":93,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire93.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire93.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":94,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire94.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire94.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":95,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire95.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire95.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":96,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire96.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire96.png",
+         "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":97,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire97.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire97.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":98,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire98.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire98.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":99,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire99.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire99.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":100,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire100.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire100.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":101,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire101.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire101.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":102,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire102.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire102.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":103,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire103.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire103.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":104,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire104.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire104.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":105,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire105.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire105.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":106,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire106.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire106.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":107,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire107.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire107.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":108,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire108.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire108.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":109,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire109.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire109.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":110,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire110.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire110.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":111,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire111.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire111.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":112,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire112.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire112.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":113,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire113.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire113.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":114,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire114.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire114.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":115,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire115.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire115.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":116,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire116.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire116.png",
+          "name_skin":"Hellfire Club"
+        }
+
+        ,
+        {
+          "id":117,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire117.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire117.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":118,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire118.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire118.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":119,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire119.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire119.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":120,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire120.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire120.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":121,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire121.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire121.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":122,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire122.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire122.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":123,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire123.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire123.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":124,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire124.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire124.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":125,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire125.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire125.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":126,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire126.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire126.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":127,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire127.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire127.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":128,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire128.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire128.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":129,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire129.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire129.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":130,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire130.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire130.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":131,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire131.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire131.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":132,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire132.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire132.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":133,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire133.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire133.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":134,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire134.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire134.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":135,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire135.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire135.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":136,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire136.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire136.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":137,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire137.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire137.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":138,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire138.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire138.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":139,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire139.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire139.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":140,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire140.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire140.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":141,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire141.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire141.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":142,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire142.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire142.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":143,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire143.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire143.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":145,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire145.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire145.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":146,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire146.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire146.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":147,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire147.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire147.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":148,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire148.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire148.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":149,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire149.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire149.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":150,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire150.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire150.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":151,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire151.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire151.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":152,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire152.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire152.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":153,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire153.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire153.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":154,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire154.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire154.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":155,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire155.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire155.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":156,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire156.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire156.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":157,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire157.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire157.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":158,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire158.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire158.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":159,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire159.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire159.png",
+          "name_skin":"Hellfire Club"
+        }
+        ,
+        {
+          "id":160,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire160.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire155.png",
+          "name_skin":"Hellfire Club"
+        }
+       ,
+        {
+          "id":161,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire161.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire151.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":162,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire162.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire162.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":163,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire163.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire163.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":164,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire164.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire164.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":165,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire165.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire165.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":166,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire166.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire166.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":167,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire167.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire167.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":168,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire168.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire168.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":169,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire169.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire169.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":170,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire170.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire170.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":171,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire171.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire1571.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":172,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire172.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire172.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":173,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire173.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire173.png",
+          "name_skin":"Hellfire Club"
+        },
+        {
+          "id":174,
+          "view_skin":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/t/Hellfire174.png",
+          "skin_url":"https://raw.githubusercontent.com/badasdemon/h4ns3r1/main/h3llf1r3/p/Hellfire174.png",
+          "name_skin":"Hellfire Club"
+        }
+       
+
+  ]
+}
