@@ -1,0 +1,790 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+      "backup_ads_intertitial":"b195f8dd8ded45fe847ad89ed1d016da",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Skin":
+  [
+   {
+          "id":1,
+          "name_skin":"Boy Kawaii",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii1.png",
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii1.png"
+          
+          
+        },
+        {
+          "id":2,
+          "name_skin":"Boy Kawaii",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii2.png",
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii2.png"
+          
+        },
+        {
+          "id":3,
+          "name_skin":"Boy Kawaii",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii3.png",
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii3.png"
+          
+          
+        },
+        {
+          "id":4,
+          "name_skin":"Boy Kawaii",
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii4.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii4.png"
+          
+        },
+        {
+          "id":5,
+          "name_skin":"Boy Kawaii",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii5.png",
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii5.png"
+          
+          
+        },
+        {
+          "id":6,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii6.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii6.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":7,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii7.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii7.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":8,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii8.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii8.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":9,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii9.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii9.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":10,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii10.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii10.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":11,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii11.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii11.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":12,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii12.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii12.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":13,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii13.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii13.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":14,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii14.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii14.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":15,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii15.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii15.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":16,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii16.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii16.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":17,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii17.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii17.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":18,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii18.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii18.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":19,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii19.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii19.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":20,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii20.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii20.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":21,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii21.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii21.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":22,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii22.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii22.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":23,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii23.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii23.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":24,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii24.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii24.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":25,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii25.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii25.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":26,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii26.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii26.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":27,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii27.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii27.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":28,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii28.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii28.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":29,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii29.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii29.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":30,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii30.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii30.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":31,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii31.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii31.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":32,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii32.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii32.png",
+          "name_skin":"Boy Kawaii"
+        },
+        { 
+          "id":33,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii33.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii33.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":34,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii34.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii34.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":35,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii35.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii35.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":36,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii36.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii36.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":37,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii37.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii37.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":38,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii38.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii38.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":39,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii39.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii39.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":40,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii40.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii40.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":41,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii41.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii41.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":42,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii42.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii42.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":43,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii43.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii43.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":44,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii44.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii44.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":45,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii45.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii45.png",
+          "name_skin":"Boy Kawaii"
+        },
+        { 
+          "id":46,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii46.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii46.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":47,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii47.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii47.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":48,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii48.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii48.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":49,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii49.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii49.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":50,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii50.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii50.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":51,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii51.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii51.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":52,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii52.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii52.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":53,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii53.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii53.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":54,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii54.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii54.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":55,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii55.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii55.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":56,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii56.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii56.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":57,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii57.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii57.png",
+         "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":58,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii58.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii58.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":59,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii59.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii59.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":60,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii60.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii60.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":61,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii61.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii61.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":62,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii62.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii62.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":63,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii63.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii63.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":64,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii64.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii64.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":65,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii65.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii65.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":66,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii66.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii66.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":67,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii67.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii67.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":68,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii68.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii68.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":69,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii69.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii69.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":70,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii70.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii70.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":71,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii71.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii71.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":72,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii72.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii72.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":73,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii73.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii73.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":74,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii74.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii74.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":75,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii75.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii75.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":76,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii76.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii76.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":77,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii77.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii77.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":78,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii78.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii78.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":79,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii79.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii79.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":80,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii80.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii80.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":81,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii81.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii81.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":82,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii82.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii82.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":83,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii83.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii83.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":84,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii84.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii84.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":85,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii85.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii85.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":86,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii86.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii86.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":87,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii87.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii87.png",
+          "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":88,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii88.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii88.png",
+         "name_skin":"Boy Kawaii"
+        },
+        {
+          "id":89,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii89.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii89.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":90,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii90.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii90.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":91,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii91.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii91.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":92,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii92.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii92.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":93,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii93.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii93.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":94,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii94.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii94.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":95,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii95.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii95.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":96,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii96.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii96.png",
+         "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":97,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii97.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii97.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":98,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii98.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii98.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":99,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii99.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii99.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":100,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii100.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii100.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":101,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii101.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii101.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":102,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii102.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii102.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":103,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii103.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii103.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":104,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii104.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii104.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":105,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii105.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii105.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":106,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii106.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii106.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":107,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii107.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii107.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":108,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii108.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii108.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":109,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii109.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii109.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":110,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii110.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii110.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":111,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii111.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii111.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":112,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii112.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii112.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":113,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii113.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii113.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":114,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii114.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii114.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":115,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii115.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii115.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":116,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii116.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii116.png",
+          "name_skin":"Boy Kawaii"
+        }
+
+        ,
+        {
+          "id":117,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii117.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii117.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":118,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii118.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii118.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":119,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii119.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii119.png",
+          "name_skin":"Boy Kawaii"
+        }
+        ,
+        {
+          "id":120,
+          "view_skin":"https://aweu.net/2022/hanseri/BoyKawaii/thumb/BoyKawaii120.png",
+          "skin_url":"https://aweu.net/2022/hanseri/BoyKawaii/png/BoyKawaii120.png",
+          "name_skin":"Boy Kawaii"
+        }
+        
+
+  ]
+}
+
