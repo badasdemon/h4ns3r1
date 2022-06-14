@@ -1,0 +1,761 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+      "backup_ads_intertitial":"b195f8dd8ded45fe847ad89ed1d016da",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Skin":
+  [
+   {
+          "id":1,
+          "name_skin":"Girl Kawaii",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii1.png",
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii1.png"
+          
+          
+        },
+        {
+          "id":2,
+          "name_skin":"Girl Kawaii",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii2.png",
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii2.png"
+          
+        },
+        {
+          "id":3,
+          "name_skin":"Girl Kawaii",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii3.png",
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii3.png"
+          
+          
+        },
+        {
+          "id":4,
+          "name_skin":"Girl Kawaii",
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii4.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii4.png"
+          
+        },
+        {
+          "id":5,
+          "name_skin":"Girl Kawaii",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii5.png",
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii5.png"
+          
+          
+        },
+        {
+          "id":6,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii6.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii6.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":7,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii7.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii7.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":8,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii8.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii8.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":9,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii9.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii9.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":10,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii10.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii10.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":11,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii11.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii11.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":12,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii12.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii12.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":13,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii13.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii13.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":14,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii14.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii14.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":15,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii15.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii15.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":16,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii16.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii16.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":17,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii17.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii17.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":18,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii18.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii18.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":19,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii19.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii19.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":20,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii20.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii20.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":21,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii21.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii21.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":22,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii22.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii22.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":23,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii23.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii23.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":24,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii24.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii24.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":25,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii25.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii25.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":26,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii26.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii26.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":27,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii27.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii27.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":28,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii28.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii28.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":29,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii29.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii29.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":30,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii30.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii30.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":31,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii31.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii31.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":32,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii32.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii32.png",
+          "name_skin":"Girl Kawaii"
+        },
+        { 
+          "id":33,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii33.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii33.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":34,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii34.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii34.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":35,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii35.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii35.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":36,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii36.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii36.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":37,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii37.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii37.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":38,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii38.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii38.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":39,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii39.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii39.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":40,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii40.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii40.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":41,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii41.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii41.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":42,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii42.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii42.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":43,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii43.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii43.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":44,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii44.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii44.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":45,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii45.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii45.png",
+          "name_skin":"Girl Kawaii"
+        },
+        { 
+          "id":46,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii46.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii46.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":47,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii47.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii47.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":48,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii48.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii48.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":49,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii49.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii49.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":50,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii50.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii50.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":51,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii51.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii51.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":52,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii52.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii52.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":53,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii53.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii53.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":54,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii54.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii54.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":55,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii55.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii55.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":56,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii56.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii56.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":57,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii57.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii57.png",
+         "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":58,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii58.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii58.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":59,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii59.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii59.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":60,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii60.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii60.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":61,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii61.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii61.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":62,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii62.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii62.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":63,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii63.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii63.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":64,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii64.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii64.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":65,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii65.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii65.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":66,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii66.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii66.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":67,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii67.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii67.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":68,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii68.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii68.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":69,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii69.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii69.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":70,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii70.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii70.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":71,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii71.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii71.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":72,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii72.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii72.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":73,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii73.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii73.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":74,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii74.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii74.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":75,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii75.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii75.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":76,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii76.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii76.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":77,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii77.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii77.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":78,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii78.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii78.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":79,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii79.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii79.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":80,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii80.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii80.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":81,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii81.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii81.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":82,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii82.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii82.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":83,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii83.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii83.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":84,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii84.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii84.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":85,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii85.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii85.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":86,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii86.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii86.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":87,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii87.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii87.png",
+          "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":88,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii88.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii88.png",
+         "name_skin":"Girl Kawaii"
+        },
+        {
+          "id":89,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii89.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii89.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":90,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii90.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii90.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":91,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii91.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii91.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":92,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii92.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii92.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":93,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii93.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii93.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":94,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii94.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii94.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":95,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii95.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii95.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":96,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii96.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii96.png",
+         "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":97,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii97.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii97.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":98,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii98.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii98.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":99,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii99.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii99.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":100,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii100.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii100.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":101,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii101.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii101.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":102,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii102.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii102.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":103,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii103.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii103.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":104,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii104.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii104.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":105,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii105.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii105.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":106,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii106.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii106.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":107,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii107.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii107.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":108,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii108.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii108.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":109,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii109.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii109.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":110,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii110.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii110.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":111,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii111.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii111.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":112,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii112.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii112.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":113,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii113.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii113.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":114,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii114.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii114.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":115,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii115.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii115.png",
+          "name_skin":"Girl Kawaii"
+        }
+        ,
+        {
+          "id":116,
+          "view_skin":"https://aweu.net/2022/hanseri/GirlKawaii/thumb/GirlKawaii116.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GirlKawaii/png/GirlKawaii116.png",
+          "name_skin":"Girl Kawaii"
+        }
+
+
+  ]
+}
+
