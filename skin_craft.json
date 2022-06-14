@@ -1,0 +1,847 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+      "backup_ads_intertitial":"b195f8dd8ded45fe847ad89ed1d016da",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Skin":
+  [
+   {
+          "id":1,
+          "name_skin":"Gengar Shirt",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt1.png",
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt1.png"
+          
+          
+        },
+        {
+          "id":2,
+          "name_skin":"Gengar Shirt",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt2.png",
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt2.png"
+          
+        },
+        {
+          "id":3,
+          "name_skin":"Gengar Shirt",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt3.png",
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt3.png"
+          
+          
+        },
+        {
+          "id":4,
+          "name_skin":"Gengar Shirt",
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt4.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt4.png"
+          
+        },
+        {
+          "id":5,
+          "name_skin":"Gengar Shirt",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt5.png",
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt5.png"
+          
+          
+        },
+        {
+          "id":6,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt6.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt6.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":7,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt7.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt7.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":8,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt8.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt8.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":9,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt9.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt9.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":10,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt10.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt10.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":11,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt11.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt11.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":12,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt12.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt12.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":13,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt13.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt13.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":14,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt14.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt14.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":15,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt15.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt15.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":16,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt16.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt16.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":17,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt17.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt17.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":18,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt18.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt18.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":19,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt19.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt19.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":20,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt20.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt20.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":21,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt21.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt21.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":22,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt22.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt22.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":23,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt23.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt23.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":24,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt24.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt24.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":25,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt25.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt25.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":26,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt26.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt26.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":27,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt27.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt27.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":28,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt28.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt28.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":29,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt29.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt29.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":30,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt30.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt30.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":31,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt31.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt31.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":32,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt32.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt32.png",
+          "name_skin":"Gengar Shirt"
+        },
+        { 
+          "id":33,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt33.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt33.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":34,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt34.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt34.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":35,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt35.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt35.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":36,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt36.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt36.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":37,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt37.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt37.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":38,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt38.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt38.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":39,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt39.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt39.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":40,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt40.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt40.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":41,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt41.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt41.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":42,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt42.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt42.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":43,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt43.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt43.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":44,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt44.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt44.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":45,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt45.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt45.png",
+          "name_skin":"Gengar Shirt"
+        },
+        { 
+          "id":46,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt46.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt46.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":47,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt47.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt47.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":48,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt48.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt48.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":49,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt49.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt49.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":50,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt50.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt50.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":51,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt51.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt51.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":52,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt52.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt52.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":53,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt53.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt53.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":54,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt54.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt54.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":55,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt55.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt55.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":56,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt56.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt56.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":57,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt57.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt57.png",
+         "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":58,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt58.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt58.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":59,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt59.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt59.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":60,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt60.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt60.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":61,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt61.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt61.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":62,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt62.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt62.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":63,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt63.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt63.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":64,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt64.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt64.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":65,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt65.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt65.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":66,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt66.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt66.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":67,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt67.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt67.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":68,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt68.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt68.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":69,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt69.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt69.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":70,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt70.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt70.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":71,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt71.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt71.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":72,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt72.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt72.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":73,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt73.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt73.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":74,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt74.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt74.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":75,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt75.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt75.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":76,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt76.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt76.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":77,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt77.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt77.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":78,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt78.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt78.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":79,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt79.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt79.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":80,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt80.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt80.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":81,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt81.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt81.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":82,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt82.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt82.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":83,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt83.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt83.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":84,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt84.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt84.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":85,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt85.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt85.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":86,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt86.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt86.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":87,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt87.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt87.png",
+          "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":88,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt88.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt88.png",
+         "name_skin":"Gengar Shirt"
+        },
+        {
+          "id":89,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt89.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt89.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":90,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt90.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt90.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":91,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt91.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt91.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":92,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt92.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt92.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":93,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt93.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt93.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":94,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt94.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt94.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":95,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt95.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt95.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":96,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt96.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt96.png",
+         "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":97,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt97.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt97.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":98,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt98.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt98.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":99,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt99.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt99.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":100,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt100.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt100.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":101,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt101.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt101.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":102,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt102.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt102.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":103,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt103.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt103.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":104,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt104.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt104.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":105,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt105.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt105.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":106,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt106.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt106.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":107,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt107.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt107.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":108,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt108.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt108.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":109,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt109.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt109.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":110,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt110.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt110.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":111,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt111.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt111.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":112,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt112.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt112.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":113,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt113.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt113.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":114,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt114.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt114.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":115,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt115.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt115.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":116,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt116.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt116.png",
+          "name_skin":"Gengar Shirt"
+        }
+
+        ,
+        {
+          "id":117,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt117.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt117.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":118,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt118.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt118.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":119,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt119.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt119.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":120,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt120.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt120.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":121,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt121.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt121.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":122,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt122.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt122.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":123,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt123.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt123.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":124,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt124.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt124.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":125,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt125.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt125.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":126,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt126.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt126.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":127,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt127.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt127.png",
+          "name_skin":"Gengar Shirt"
+        }
+        ,
+        {
+          "id":128,
+          "view_skin":"https://aweu.net/2022/hanseri/GengarShirt/thumb/GengarShirt128.png",
+          "skin_url":"https://aweu.net/2022/hanseri/GengarShirt/png/GengarShirt128.png",
+          "name_skin":"Gengar Shirt"
+        }
+       
+       
+
+  ]
+}
+
